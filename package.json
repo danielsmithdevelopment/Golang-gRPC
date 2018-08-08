@@ -1,0 +1,22 @@
+{
+  "name": "golang-grpc",
+  "version": "1.0.0",
+  "description": "gRPC implementation of Golang server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielsmithdevelopment/Golang-gRPC.git"
+  },
+  "author": "Daniel Smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielsmithdevelopment/Golang-gRPC/issues"
+  },
+  "homepage": "https://github.com/danielsmithdevelopment/Golang-gRPC#readme",
+  "dependencies": {
+    "ts-protoc-gen": "^0.7.6"
+  }
+}
